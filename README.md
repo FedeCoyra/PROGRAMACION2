@@ -6,7 +6,7 @@ Integrantes del grupo:
 
 Coyra, Federico Nahuel – Legajo: 182939 - Mail: federicocoyra@gmail.com
 
-Fernández, Nicolas Franco - Legajo: 182846
+Fernández, Nicolas Franco - Legajo: 182846 - Mail: nicolasfernandez.steam@hotmail.com
 
 Dell Aquila, Agustin - Legajo: 174310
 
