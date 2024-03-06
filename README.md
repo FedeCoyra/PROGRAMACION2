@@ -1,6 +1,7 @@
 # PROGRAMACION2 - 2024
 
 ## Repositorio para entregas de Trabajos Practicos de Programacion 2
+## Grupo: 
 
 Integrantes del grupo:
 
