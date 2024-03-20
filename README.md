@@ -9,7 +9,7 @@ Coyra, Federico Nahuel – Legajo: 182939 - Mail: federicocoyra@gmail.com
 
 Fernández, Nicolas Franco - Legajo: 182846 - Mail: nicolasfernandez.steam@hotmail.com
 
-Dell Aquila, Agustin - Legajo: 174310
+Dell Aquila, Agustin - Legajo: 174310 - Mail: agusdellaquila72@gmail.com
 
 Ranero, Juan Cruz - Legajo: 187844 - Mail: ranerojuancruz@gmail.com
 
