@@ -1,9 +1,8 @@
-# PROGRAMACION2 - 2024
+# PROGRAMACIÓN2 - 2024
 
-## Repositorio para entregas de Trabajos Practicos de Programacion 2
-## Grupo: 
+## Repositorio para entregas de Trabajos Prácticos de Programación 2
 
-Integrantes del grupo:
+## Integrantes del grupo:
 
 Coyra, Federico Nahuel – Legajo: 182939 - Mail: federicocoyra@gmail.com
 
