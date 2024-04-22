@@ -1,4 +1,5 @@
 # PROGRAMACIÓN2 - 2024
+# GRUPO 8
 
 ## Repositorio para entregas de Trabajos Prácticos de Programación 2
 
